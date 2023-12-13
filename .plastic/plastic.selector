@@ -1,0 +1,4 @@
+repository "unity-web-project@marysu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
